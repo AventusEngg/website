@@ -4,7 +4,7 @@
   font-family: "Kanit", sans-serif;
 }
 .header{
-    min-height: 251vh;
+    min-height: 261vh;
     width:  100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)) ,url(images/bg.jpg);
     background-position:center;
